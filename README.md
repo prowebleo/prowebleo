@@ -14,7 +14,7 @@
 - :snake: Core stack: **Python**, **TypeScript**, **Next.js**, **Selenium**, **FastAPI**.
 - :bar_chart: I turn raw data into **interactive dashboards** with **Recharts** & **Chart.js**.
 - :nerd_face: Always `learning new things`.
-- :boom: Check out my [Portfolio Website](https://prowebleo.github.io/portfolio-tracker/portfolio/).
+- :boom: Check out my [Portfolio Website](https://prowebleo.github.io/).
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
