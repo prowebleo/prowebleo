@@ -18,7 +18,7 @@
 
 :nerd_face: Always learning new things.
 
-:boom: Check out my Portfolio Website.
+:boom: [Check out my Portfolio Website](https://prowebleo.github.io/).
 
 <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
@@ -39,8 +39,8 @@
 - Helps the owner respond quickly to new opportunities.
 
 <div align="center">
-  <a href="#">🇪🇸 Spanish Demo (placeholder)</a> &nbsp;|&nbsp;
-  <a href="#">🇺🇸 English Demo (placeholder)</a>
+  <a href="https://youtu.be/RKcae7c7_Kc">🇪🇸 Spanish Demo</a> &nbsp;|&nbsp;
+  <a href="https://youtu.be/vG1Src71oZk">🇺🇸 English Demo</a>
 </div>
 
 ### Automated Invoicing
@@ -52,8 +52,8 @@
 - Records the processing status for tracking.
 
 <div align="center">
-  <a href="#">🇪🇸 Spanish Demo (placeholder)</a> &nbsp;|&nbsp;
-  <a href="#">🇺🇸 English Demo (placeholder)</a>
+  <a href="https://youtu.be/paA58PHV3Ek">🇪🇸 Spanish Demo</a> &nbsp;|&nbsp;
+  <a href="https://youtu.be/NG0WdQs6IWM">🇺🇸 English Demo</a>
 </div>
 
 ### E‑commerce Orders & Inventory
@@ -65,24 +65,11 @@
 - Detects low-stock conditions and sends a Telegram alert when inventory falls below a configured threshold.
 
 <div align="center">
-  <a href="#">🇪🇸 Spanish Demo (placeholder)</a> &nbsp;|&nbsp;
-  <a href="#">🇺🇸 English Demo (placeholder)</a>
+  <a href="https://youtu.be/2YITqsqcMOE">🇪🇸 Spanish Demo</a> &nbsp;|&nbsp;
+  <a href="https://youtu.be/Bk7I7NbDrXk">🇺🇸 English Demo</a>
 </div>
 
 🛠️ Tech Stack
-
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Languages
-
-<p align="center"> 
-   
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-   
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%234479A1.svg?style=plastic&logo=postgresql&logoColor=white">
-  </a> 
-</p>
 
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Automation & Integrations
 
@@ -101,10 +88,6 @@
     <a href="#"><img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-%23000000.svg?style=plastic&logo=webhook&logoColor=white"></a>
    
     <a href="#"><img alt="APIs" src="https://img.shields.io/badge/APIs-%23000000.svg?style=plastic"></a>
-   
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
-   
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
 </p>
 
 <br>
